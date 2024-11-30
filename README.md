@@ -75,10 +75,10 @@ PowerPoint for presentation
 GitHub for collaboration and version control
 
 ## **Contributors**
-1) [Abhishek Changde] (https://github.com/AbhiChangde)
-2) [Arsh Bassi] (https://github.com/arshbassi1025)
-3) [Sri Harini Gali] (https://github.com/HariniGali)
-4) Sanket wandhare
+1)Abhishek Changde (https://github.com/AbhiChangde)
+2) Arsh Bassi (https://github.com/arshbassi1025)
+3) Sri Harini Gali (https://github.com/HariniGali)
+4) Sanket Wandhare(https://github.com/Sanket-BITS2026)
 
 ## **Future Scope**
 Expand the dataset to include more recent statistics and other countries.

@@ -76,9 +76,9 @@ GitHub for collaboration and version control
 
 ## **Contributors**
 1) [Abhishek Changde] (https://github.com/AbhiChangde)
-3) Arsh Bassi
-4) Sanket Wandhare
-5) Sri Harini Gali
+2) [Arsh Bassi] (https://github.com/arshbassi1025)
+3) [Sri Harini Gali] (https://github.com/HariniGali)
+4) Sanket wandhare
 
 ## **Future Scope**
 Expand the dataset to include more recent statistics and other countries.
